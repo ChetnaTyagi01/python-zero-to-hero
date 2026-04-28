@@ -1,1 +1,5 @@
-# python-zero-to-hero
+# Python Zero to Hero
+
+## Topics Covered
+
+## Notes
